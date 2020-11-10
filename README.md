@@ -1,2 +1,2 @@
-# Pharoh-Framework
+# PharohJs
 pharoh is a light weight javascript framwork targets to make frontend developing or designing in a flexiable and easy way...
